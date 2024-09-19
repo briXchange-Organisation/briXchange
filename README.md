@@ -15,7 +15,7 @@ briXchange is an innovative blockchain-based platform designed to revolutionize 
 ## 🚀 **Deployment**
 
 The platform is live and can be accessed at:  
-<br>**🔗 [briXchange Testnet (Deployed) - bri-x-change.vercel.app](https://bri-x-change.vercel.app/)** - Etherlink Testnet
+<br>**🔗 [briXchange Testnet (Deployed) - bri-x-change-etherlink.vercel.app](https://bri-x-change-etherlink.vercel.app/)** - Etherlink Testnet
 <br>
 <br>
 **🔗 [briXchange Etherlink Mainnet (Under Development) - brixchange-etherlink-mainnet.vercel.app](https://brixchange-etherlink-mainnet.vercel.app/)** - Etherlink Mainnet
